@@ -18,7 +18,7 @@ public class Main {
 		root = fsp.insert(root, 50);
 		root = fsp.insert(root, 70);
 		
-		int sum=190;
+		int sum=80;
 		
 		fsp.findPairWithGivenSum(root, sum);
 
