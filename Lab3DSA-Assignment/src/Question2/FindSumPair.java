@@ -51,7 +51,7 @@ public class FindSumPair {
 		
 		HashSet<Integer> set = new HashSet<Integer>();
 		if(!findpairUtil(root, sum, set))
-			System.out.println("Pairs donot exist"+"/n");
+			System.out.println("Pairs does not exist");
 	}
 
 }
